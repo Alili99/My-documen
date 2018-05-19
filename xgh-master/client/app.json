@@ -1,0 +1,27 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/logs/logs",
+        "pages/index/today",
+        "pages/album/list",
+        "pages/tour/index",
+        "pages/tour/add",
+        "pages/life/index",
+        "pages/work/index",
+        "pages/album/add",
+        "pages/photo/add",
+        "pages/photo/add-video",
+        "pages/album/view"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "小乖猴助手",
+        "navigationBarTextStyle": "black"
+    },
+    "networkTimeout": {
+        "request": 10000,
+        "downloadFile": 10000
+    },
+    "debug": true
+}
